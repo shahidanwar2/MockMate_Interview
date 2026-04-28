@@ -74,3 +74,4 @@ npm run dev
 - Move from the in-memory Spring simple broker to a broker relay when scaling horizontally
 - Add persistence for room/session analytics if you want reconnect continuity across pods
 "# MockPlatform" 
+"# MockMate_Interview" 
